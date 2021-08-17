@@ -3,4 +3,5 @@
     Guarantee continued verification in delivering quality software as the Flarum project.
   permissions:
     discuss: QA
-    github: flarum/teams/qa
+    github:
+      flarum: qa

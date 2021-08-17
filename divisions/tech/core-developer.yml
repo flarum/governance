@@ -4,4 +4,5 @@
     well as any code or packages related to that goal.
   permissions:
     discuss: Core developer
-    github: flarum/teams/core
+    github:
+      flarum: core
