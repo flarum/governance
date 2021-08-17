@@ -1,6 +1,6 @@
-- name: Community Manager
-  task: |
-    Guarantees the official Flarum forums is a warm and welcoming place for people interested
-    in the Flarum project or ecosystem.
-  permissions:
-    discuss: Community Manager
+name: Community Manager
+task: |
+  Guarantees the official Flarum forums is a warm and welcoming place for people interested
+  in the Flarum project or ecosystem.
+permissions:
+  discuss: Community Manager

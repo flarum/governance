@@ -1,6 +1,6 @@
-- name: Foundation
-  permissions:
-    discuss: Admin
-    github:
-      flarum: owner
-      flarum-lang: owner
+name: Foundation
+permissions:
+  discuss: Admin
+  github:
+    flarum: owner
+    flarum-lang: owner

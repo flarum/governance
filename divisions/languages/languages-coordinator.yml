@@ -1,7 +1,8 @@
-- name: Languages Coordinator
-  task: |
-    Guarantee well translated core, bundled and community extensions by approaching, onboarding
-    and assisting translators.
-  permissions:
-    github:
-      flarum-lang: owner
+name: Languages Coordinator
+task: |
+  Guarantee well translated core, bundled and community extensions by approaching, onboarding
+  and assisting translators.
+permissions:
+  discuss: Language Coordinator
+  github:
+    flarum-lang: owner

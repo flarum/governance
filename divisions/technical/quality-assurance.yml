@@ -1,7 +1,7 @@
-- name: Quality Assurance
-  task: |
-    Guarantee continued verification in delivering quality software as the Flarum project.
-  permissions:
-    discuss: QA
-    github:
-      flarum: qa
+name: Quality Assurance
+task: |
+  Guarantee continued verification in delivering quality software as the Flarum project.
+permissions:
+  discuss: Quality Assurance
+  github:
+    flarum: qa

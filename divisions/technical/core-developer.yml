@@ -1,8 +1,6 @@
-- name: Core developer
-  task: |
-    Guarantees continued development of the Flarum community framework and bundled extensions, as
-    well as any code or packages related to that goal.
-  permissions:
-    discuss: Core developer
-    github:
-      flarum: core
+name: Core developer
+task: |
+  Guarantees continued development of the Flarum community framework and bundled extensions, as
+  well as any code or packages related to that goal.
+permissions:
+  discuss: Core Developer
